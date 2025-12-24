@@ -12,10 +12,10 @@ Key Features
 
 Technical Setup
 
-Language: Python.
+- Language: Python.
 
-Database: MySQL (connected via pymysql).
+- Database: MySQL (connected via pymysql).
 
-Auto-Initialization: The script automatically creates the necessary database (tat) and table (cust) upon the first run.
+- Auto-Initialization: The script automatically creates the necessary database (tat) and table (cust) upon the first run.
 
 This project demonstrates core CRUD (Create, Read, Update, Delete) operations and complex conditional logic for real-world business scenarios.
